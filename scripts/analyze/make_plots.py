@@ -10,7 +10,7 @@ import subprocess
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
-from performance_plots_new import *
+from performance_plots import *
 
 keywords = {
     "solved": "No solution found",
